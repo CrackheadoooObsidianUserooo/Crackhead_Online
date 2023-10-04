@@ -1,1 +1,0 @@
-let nodes={paths:["eingang/leseaufgabe-bis-2023-10-05.html"],nodeCount:1,linkSources:[],linkTargets:[],labels:["Leseaufgabe bis 2023-10-05"],radii:[null],linkCount:0},attractionForce=1,linkLength=10,repulsionForce=150,centralForce=3,edgePruning=100
